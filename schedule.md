@@ -15,7 +15,7 @@
 | 05 | 09/20 & 09/22 | Mapbox, `localStorage` |
 | 06 | 09/27 & 09/29 | Firebase, *Project 1 Checkpoint Due* |
 | 07 | 10/04 & 10/06 | catch up |
-| 08 | 10/11 & 10/13 | *No meeting on T 10/11 (Fall Break)* & *Project 1 Final Due* |
+| 08 | 10/11 & 10/13 | *No meeting on Tuesday 10/11 (Fall Break)* & *Project 1 Final Due* |
 |    | 03/06 - 03/13 | **Spring Break**
 | 09 | 10/18 & 10/20 | Intro Canvas API|
 | 10 | 10/25 & 10/27 | More Canvas |
