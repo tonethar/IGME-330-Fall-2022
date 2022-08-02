@@ -20,7 +20,7 @@
 - Professor: Tony Jefferson  
 - Email: tony@mail.rit.edu (Slack DM is *strongly* preferred)
 - Office hours:
-  - TR 11:00AM-12:30PM
+  - TR 11:00AM-Noon
   - Online only through Slack/Zoom is best.  DM me on Slack first to get started.
   - Other M-F days/times available by request.
   - Office is GOL-2525
