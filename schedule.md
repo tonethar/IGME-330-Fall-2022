@@ -8,22 +8,22 @@
 
 | Week # | Dates | Topics |
 | -------- | ------ | ---------- |
-| 01 | 08/23 & 08/25 | Course Intro & Review of Basic Web App Structure - TechnoBabble HW I & 2, Media Queries, Code Standards |
-| 02 | 08/30 & 09/01 | Bulma CSS Framework, ES6 Modules, Debugging |
-| 03 | 09/06 & 09/08 | Web Components |
-| 04 | 09/13 & 09/15 | Ajax - `fetch()` & Promises |
-| 05 | 09/20 & 09/22 | Mapbox, `localStorage` |
-| 06 | 09/27 & 09/29 | Firebase, *Project 1 Checkpoint Due* |
-| 07 | 10/04 & 10/06 | catch up |
-| 08 | 10/11 & 10/13 | *No meeting on Tuesday 10/11 (Fall Break)* & *Project 1 Final Due* |
-| 09 | 10/18 & 10/20 | Intro Canvas API|
-| 10 | 10/25 & 10/27 | More Canvas |
-| 11 | 11/01 & 11/03 | Web Audio |
-| 12 | 11/08 & 11/10 | ml5 |
-| 13 | 11/15 & 11/17 | catch up |
-| 14 | 11/22         | catch up, *Thanksgiving Break begins Wednesday 11/23* |
-| 15 | 11/29 & 12/01 | catch up |
-|    | 12/07 - 12/14 | **Final Exam Period - Project 2 Due**
+| 01 | **08/23** & **08/25** | Course Intro & Review of Basic Web App Structure - TechnoBabble HW I & 2, Media Queries, Code Standards |
+| 02 | **08/30** & **09/01** | Bulma CSS Framework, ES6 Modules, Debugging |
+| 03 | **09/06** & **09/08** | Web Components |
+| 04 | **09/13** & **09/15** | Ajax - `fetch()` & Promises |
+| 05 | **09/20** & **09/22** | Mapbox, `localStorage` |
+| 06 | **09/27** & **09/29** | Firebase, *Project 1 Checkpoint Due* |
+| 07 | **10/04** & **10/06** | catch up |
+| 08 | **10/11** & **10/13** | *No meeting on Tuesday 10/11 (Fall Break)* & *Project 1 Final Due* |
+| 09 | **10/18** & **10/20** | Intro Canvas API|
+| 10 | **10/25** & **10/27** | More Canvas |
+| 11 | **11/01** & **11/03** | Web Audio |
+| 12 | **11/08** & **11/10** | ml5 |
+| 13 | **11/15** & **11/17** | catch up |
+| 14 | **11/22**             | catch up, *Thanksgiving Break begins Wednesday 11/23* |
+| 15 | **11/29** & **12/01** | catch up |
+|    | **12/07** - **12/14** | **Final Exam Period - Project 2 Due**
 
 
 
