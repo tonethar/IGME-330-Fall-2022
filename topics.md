@@ -1,4 +1,4 @@
-# IGME-330 - Spring 2022: Topics
+# IGME-330 - Fall 2022: Topics
 
 ## I. Basic JavaScript & Browser DOM
 This material is review you need to do on your own - most of this is now taught in IGME-230
