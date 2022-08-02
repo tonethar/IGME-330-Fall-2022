@@ -8,17 +8,17 @@
 
 | Week # | Dates | Topics |
 | -------- | ------ | ---------- |
-| 01 | 01/11 & 01/13 | Course Intro & Review of Basic Web App Structure - TechnoBabble HW I & 2, Media Queries, Code Standards |
-| 02 | 01/18 & 01/20 | Bulma CSS Framework, ES6 Modules, Debugging |
-| 03 | 01/25 & 01/27 | Web Components |
-| 04 | 02/01 & 02/03 | Ajax - `fetch()` & Promises |
-| 05 | 02/08 & 02/10 | Mapbox, `localStorage` |
-| 06 | 02/15 & 02/17 | Firebase, *Project 1 Checkpoint Due* |
-| 07 | 02/22 & 02/24 | catch up |
-| 08 | 03/01 & 03/03 | *Project 1 Final Due* |
+| 01 | 08/23 & 08/25 | Course Intro & Review of Basic Web App Structure - TechnoBabble HW I & 2, Media Queries, Code Standards |
+| 02 | 08/30 & 09/01 | Bulma CSS Framework, ES6 Modules, Debugging |
+| 03 | 09/06 & 09/08 | Web Components |
+| 04 | 09/13 & 09/15 | Ajax - `fetch()` & Promises |
+| 05 | 09/20 & 09/22 | Mapbox, `localStorage` |
+| 06 | 09/27 & 09/29 | Firebase, *Project 1 Checkpoint Due* |
+| 07 | 10/04 & 10/06 | catch up |
+| 08 | 10/11 & 10/13 | *No meeting on T 10/11 (Fall Break)* & *Project 1 Final Due* |
 |    | 03/06 - 03/13 | **Spring Break**
-| 09 | 03/15 & 03/17 | Intro Canvas API|
-| 10 | 03/22 & 03/24 | More Canvas |
+| 09 | 10/18 & 10/20 | Intro Canvas API|
+| 10 | 10/25 & 10/27 | More Canvas |
 | 11 | 03/29 & 03/31 | Web Audio |
 | 12 | 04/05 & 04/07 | ml5 |
 | 13 | 04/12 & 04/14 | catch up |
