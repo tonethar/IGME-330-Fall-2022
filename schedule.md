@@ -16,14 +16,14 @@
 | 06 | 09/27 & 09/29 | Firebase, *Project 1 Checkpoint Due* |
 | 07 | 10/04 & 10/06 | catch up |
 | 08 | 10/11 & 10/13 | *No meeting on Tuesday 10/11 (Fall Break)* & *Project 1 Final Due* |
-|    | 03/06 - 03/13 | **Spring Break**
 | 09 | 10/18 & 10/20 | Intro Canvas API|
 | 10 | 10/25 & 10/27 | More Canvas |
-| 11 | 03/29 & 03/31 | Web Audio |
-| 12 | 04/05 & 04/07 | ml5 |
-| 13 | 04/12 & 04/14 | catch up |
-| 14 | 04/19 & 04/21 | catch up |
-|    | 04/27 - 05/04 | **Final Exam Period - Project 2 Due**
+| 11 | 11/01 & 11/03 | Web Audio |
+| 12 | 11/08 & 11/10 | ml5 |
+| 13 | 11/15 & 11/17 | catch up |
+| 14 | 11/22         | catch up, *Thanksgiving Break begins Wednesday 11/23* |
+| 15 | 11/29 & 12/01 | catch up |
+|    | 12/07 - 12/14 | **Final Exam Period - Project 2 Due**
 
 
 
