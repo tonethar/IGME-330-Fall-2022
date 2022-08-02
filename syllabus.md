@@ -15,8 +15,8 @@
 
 ### Sections 01-03 (Jefferson)
 - IGME-330-01 - TR 3:30PM-4:45PM - MSS 3110
-- IGME-330-02 - TR 9:30AM-10:45AM - GOL 2570
-- IGME-330-03 - TR 5:00PM-6:15PM - MSS 3110
+- IGME-330-02 - TR 9:30AM-10:45AM - GOL 2025
+- IGME-330-03 - TR 5:00PM-6:15PM - MSS 2175
 - Professor: Tony Jefferson  
 - Email: tony@mail.rit.edu (Slack DM is *strongly* preferred)
 - Office hours:
