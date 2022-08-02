@@ -1,4 +1,4 @@
-# IGME-330 - Spring 2022: Schedule
+# IGME-330 - Fall 2022: Schedule
 
 ## Contents
 
