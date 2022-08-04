@@ -53,7 +53,7 @@
 ### III-A. ES6 Modules
 
 1)  In general, your HTML page will import only one JS file of `type="module"`
-    - for example, image if you had 2 files **app.js** and **my-component.js**
+    - for example, imagine if you had 2 files **app.js** and **my-component.js**
     - you would import **app.js** like this -  `<script type="module" src="./src/app.js">`
     - and then (at the top of) **app.js** you `import` **my-component.js** like this - `import {MyComponent} from "./my-component.js";`
     - you would NOT do this in the HTML file:
