@@ -1,5 +1,5 @@
 # IGME-330 Rich Media Web Application Development I. 
-## Fall 2022: Syllabus
+## Fall 2022: Syllabus (DRAFT)
 
 ## I. Course Catalog Description 
 *This course provides students the opportunity to explore the design and development of media-rich web applications that utilize both static and procedurally manipulated media such as text, images and audio. This course examines client and server-side web development and features common to such applications.  Issues explored include framework characteristics, information management, presentation, interactivity, persistence, and data binding. Programming projects are required. 3 Credits*
@@ -32,7 +32,7 @@
 - https://mycourses.rit.edu will contain additional materials, and will also be used for announcements, assignment submissions, and grading
 - keep an eye on the dropboxes in mycourses for assignment due dates
 - you will be expected to participate in this multi-section Slack workspace throughout the semester: 
-  - https://rit-igme-330-2215.slack.com
+  - https://rit-igme-330-2221.slack.com
   - read this [IGME 330 - Introduction to Slack](https://docs.google.com/document/d/e/2PACX-1vQqjfsmGnvlweL9-ruKtsLn1wExSF2vapG1sVFGBJullHnFvbBYtYb60U8gaE7igzDGyGxzzYCxMmON/pub) document for details.
 
 ### Course Textbook
