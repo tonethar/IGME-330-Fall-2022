@@ -32,11 +32,11 @@
   - meeting the requirements detailed below
   - how far you went beyond what we did in class, as described below
 
-### I-B. Timeline
+### I-B. Timeline (tentative, see myCourses dropboxes for firm due dates
 
-- Checkpoint #1 - due Wednesday night 9/28/22
-- Checkpoint #2 - due Monday XX/XX/22
-- Final version - due Wednesday XX/XX/22
+- Checkpoint #1 - due Wednesday night 9/28/22 (week #6)
+- Checkpoint #2 - due Monday night 10/03/22 (week #7)
+- Final version - due Wednesday night 10/12/22 (week #8)
 
 ### I-C. FAQ
 - *Can I use the same API that I did for the IGME-235 Web App project?*
@@ -48,7 +48,8 @@
 
 - 4 web pages: **home.html**, **app.html**, **favorites.html**, **documentation.html**
 - All web pages:
-  - Must utilize the Bulma CSS framework - either something you came up with on your own, or the page that you created for HW-Bulma-1:
+  - Must utilize the Bulma CSS framework:
+    - either something you came up with on your own, or the page that you created for [HW-Bulma-1](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-bulma-1.md) or [Dogfinder App - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/dogfinder-1.md)
     - do NOT use (for example) any of our demos (SW App, Greeter with Components, etc) as a starting point
   - Must have a global navigation system - this is a navigation system that appears on every page - and it contains a "cue" to which page the user is currently on (example - bolded text, or a different colored background)
   - Must contain at least 2 web components
