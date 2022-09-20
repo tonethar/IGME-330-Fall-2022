@@ -37,6 +37,9 @@
 - [Giant Bomb Game API](http://www.giantbomb.com/api/)
 - ~~[League of Legends API](https://developer.riotgames.com)~~ (the API key expires every 24-hours!)
 - [Programmable Web - Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
+- D&D
+  - https://api.open5e.com/
+  - https://www.dnd5eapi.co/
 
 ### Government Data
 - [USGS Earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/)
