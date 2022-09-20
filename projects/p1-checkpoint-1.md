@@ -36,7 +36,7 @@
 
 - Checkpoint #1 - due Wednesday night 9/28/22 (week #6)
 - Checkpoint #2 - due Monday night 10/03/22 (week #7)
-- Final version - due Wednesday night 10/12/22 (week #8)
+- Final version - due Sunday night 10/16/22 (end of week #8 / beginning of week #9)
 
 ### I-C. FAQ
 - *Can I use the same API that I did for the IGME-235 Web App project?*
