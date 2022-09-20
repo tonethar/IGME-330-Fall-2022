@@ -34,9 +34,9 @@
 
 ### I-B. Timeline
 
-- Checkpoint #1 - due Wednesday 2/9/22
-- Checkpoint #2 - due Monday 2/21/22
-- Final version - due Wednesday 3/2/22
+- Checkpoint #1 - due Wednesday night 9/28/22
+- Checkpoint #2 - due Monday XX/XX/22
+- Final version - due Wednesday XX/XX/22
 
 ### I-C. FAQ
 - *Can I use the same API that I did for the IGME-235 Web App project?*
@@ -102,14 +102,14 @@
 
 ## V. Evaluation / Rubric
 
-- Grade weight is 2 HW assignments
-- Late submission will not be accepted without prior approval
+- Grade weight is 10% of project 1 (which is 25% of your final course grade)
+- Late submissions will not be accepted without prior approval
 - Rubric (out of 10 points):
   - (-5) points for each missing web component, not using Bulma, missing HTML files
   - (-5) no interface sketch/mockup present on **documentation.html** page
   - (-2) if the hamburger menu and/or navigation system do not function properly
   - (-1) point for each instance of not following code & naming standards detailed in [IGME-330 - Course Code Style Requirements](330-code-style.md)
   - (-1) point for each other unmet requirement
-- This checkpoint is designed to get you started - whcih is usually the hardest thing to do whenever one is faced with a task
+- This checkpoint is designed to get you started - which is usually the hardest thing to do whenever one is faced with a task
 - Once you have come up with your idea - this checkpoint shouldn't take too long to complete - so get 'er done! And be sure to meet ALL of the requirements
 - See myCourses dropbox for submission instructions
