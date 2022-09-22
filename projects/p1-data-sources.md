@@ -35,7 +35,7 @@
 ### Games
 - [Pokemon Go API ](https://rapidapi.com/chewett/api/pokemon-go1)
 - [Giant Bomb Game API](http://www.giantbomb.com/api/)
-- ~~[League of Legends API](https://developer.riotgames.com)~~ (the API key expires every 24-hours!)
+- ~~[League of Legends API](https://developer.riotgames.com)~~ (the public API key expires every 24-hours, so you need your own personal key)
 - [Programmable Web - Game APIs](http://www.programmableweb.com/category/games/apis?category=20098)
 - D&D
   - https://api.open5e.com/
