@@ -57,7 +57,7 @@
   - Must follow course naming conventions for `id`, `class` and `name` attributes, and for file and folder names
 - Page Requirements:
   - **home.html** - this is the app landing page - eventually this page will need to be visually interesting and effectively communicate what the app does to your target audience.
-    - For now, it must state the app's name or title, and a 2 or 3 sentence description of the project. It also must have a theme related image on it (a "brand" or font awesome icon does not meet this requirement)
+    - For now, it must state the app's name or title, and a 2 or 3 sentence description of the project. It also must have a theme related image on it (a "brand" or font awesome icon does **NOT** meet this requirement)
   - **app.html** - no specific content is required, but some placeholder text or UI would be nice
   - **favorites.html** - no specific content is required, but some placeholder text or UI would be nice
   - **documentation.html** - this is where you will describe:
