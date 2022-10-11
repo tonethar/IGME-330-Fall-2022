@@ -39,9 +39,9 @@
 **firebase.js**
 
 ```js
-import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.7/firebase-app.js";
+import { initializeApp } from "https://www.gstatic.com/firebasejs/LINK-TO-LATEST-VERSION-FIREBASE.js";
 // https://firebase.google.com/docs/web/setup#available-libraries
-import { getDatabase, ref, set, push, onValue, increment } from  "https://www.gstatic.com/firebasejs/9.6.7/firebase-database.js";
+import { getDatabase, ref, set, push, onValue, increment } from  "https://www.gstatic.com/firebasejs/LINK-TO-LATEST-VERSION-FIREBASE.js";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
