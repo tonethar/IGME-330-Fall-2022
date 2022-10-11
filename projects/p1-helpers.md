@@ -83,7 +83,7 @@ export {db,likedDogsPath,ref,set,push,pushLikedDogToCloud,onValue};
 
 ## VIII. Project 1 Helper? - localStorage "helper code" - localStorage.js
 
-- Check out **local-storage-demo-start** in week 7 of myCourses - it covered reading and writing an object literal to myCourses
+- Check out **local-storage-demo-start** in week 6 of myCourses - it covered reading and writing an object literal to myCourses
 - **app.js** and **localStorage.js** are 100% done - there was just a little code in **favorites.js** that you needed to write yourself
 
 <hr>
