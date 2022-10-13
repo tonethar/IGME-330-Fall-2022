@@ -24,6 +24,7 @@
     - you will store this app state in an *object literal* under a single "key" named `abc1234-p1-settings` (where `abc1234` is your "banjo id")
     - storing object literals in `localStorage` is covered here - [Web Apps 9 - WebStorage API - Storing Objects with Web Storage](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md#iii-storing-objects-with-web-storage)
     - we also covered how to create a favorites page in the [Week 7A `localStorage` demo](../weekly/07A.md#iii-localstorage-demo)
+    - PS - for app "impact" that goes beyond what we did in class (see rubric), the user's most recent search results should be re-constituted every time they return to the app page
 
 3) The app must have a 4th web component (you may have more if you want) - and it must be `<app-navbar>` - this navbar must have "you are here" cues such as bold text, and the Hamburger menu still needs to work. There are some hints on how to do this here [Project 1 - Tips & Tricks - Creating a `<p1-nav>` component](p1-tips.md#ii-c-creating-a-p1-nav-component)
 
