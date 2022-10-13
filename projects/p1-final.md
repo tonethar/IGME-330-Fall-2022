@@ -138,6 +138,7 @@
 |    - *Missing required # of controls (App Page)* | *(-10 each)* |
 |    - *Favorites not stored in localstorage as detailed above (Favorites Page)* | *(-15)* |
 |    - *Missing Favorites "Delete" button (Favorites Page)* | *(-5)* |
+|    - *Missing Mapbox or Firebase functionality* | *(-15)* |
 | **B. Content - Home & Documentation Pages** | **10** | |
 |    1. Required content is present on Home & Documentation Pages | |
 | **C. Design & Interaction** | **20** | |
