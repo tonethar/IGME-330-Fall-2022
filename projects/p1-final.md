@@ -25,7 +25,7 @@
     - storing object literals in `localStorage` is covered here - [Web Apps 9 - WebStorage API - Storing Objects with Web Storage](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md#iii-storing-objects-with-web-storage)
     - we also covered it in the [Week 7A `localStorage` demo](../weekly/07A.md#iii-localstorage-demo)
 
-3) The app must have (at least) a 4th web component - and it must be `<app-navbar>` - this navbar must have "you are here" cues such as bold text
+3) The app must have a 4th web component (you may have more if you want) - and it must be `<app-navbar>` - this navbar must have "you are here" cues such as bold text, and the Hamburger menu still needs to work.
 
 4) The app must use `fetch()` instead of `XHR`
 
