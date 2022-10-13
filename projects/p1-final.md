@@ -19,11 +19,11 @@
 
 1) Everything from the prevous checkpoints is still required - 4 pages (and probably one more for this version if you are using Firebase), global navigation system, uses Bulma, uses a web service or data source and so on.
 
-2) Every time the user clicks the search button, this App page WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's `localStorage` - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+2) Every time the user clicks the search button, this App page WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's `localStorage`:
     - we are going to test this capability by typing in a search term, changing a value of the 3rd control, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
     - you will store this app state in an *object literal* under a single "key" named `abc1234-p1-settings` (where `abc1234` is your "banjo id")
     - storing object literals in `localStorage` is covered here - [Web Apps 9 - WebStorage API - Storing Objects with Web Storage](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md#iii-storing-objects-with-web-storage)
-    - we also covered it in the [Week 7A `localStorage` demo](../weekly/07A.md#iii-localstorage-demo)
+    - we also covered how to create a favorites page in the [Week 7A `localStorage` demo](../weekly/07A.md#iii-localstorage-demo)
 
 3) The app must have a 4th web component (you may have more if you want) - and it must be `<app-navbar>` - this navbar must have "you are here" cues such as bold text, and the Hamburger menu still needs to work. There are some hints on how to do this here [Project 1 - Tips & Tricks - Creating a `<p1-nav>` component](p1-tips.md#ii-c-creating-a-p1-nav-component)
 
