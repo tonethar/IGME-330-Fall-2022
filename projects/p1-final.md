@@ -23,9 +23,9 @@
     - we are going to test this capability by typing in a search term, changing a value of the 3rd control, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
     - you will store this app state in an *object literal* under a single "key" named `abc1234-p1-settings` (where `abc1234` is your "banjo id")
     - storing object literals in `localStorage` is covered here - [Web Apps 9 - WebStorage API - Storing Objects with Web Storage](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md#iii-storing-objects-with-web-storage)
-    - we also covered it in the [Week 6A `localStorage` demo](../weekly/06A.md#iv-localstorage-demo)
+    - we also covered it in the [Week 7A `localStorage` demo](../weekly/07A.md#iii-localstorage-demo)
 
-3) The app must have a 4th web component - and it must be `<app-navbar>` - this navbar must have "you are here" cues such as bold text
+3) The app must have (at least) a 4th web component - and it must be `<app-navbar>` - this navbar must have "you are here" cues such as bold text
 
 4) The app must use `fetch()` instead of `XHR`
 
