@@ -62,6 +62,7 @@
 8) The app must "fail gracefully" and errors must be communicated to the user - for example:
     - "No results found" message if a search comes back with no results
     - "Please enter a search term" if the user clicks the search button without typing anything in
+    - *Make sure that the user will never "feel stupid" while trying to use your app*
 
 9) The app must have "Impact":
     - it serves a purpose - i.e it should be useful to someone
