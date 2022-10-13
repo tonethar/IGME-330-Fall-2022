@@ -38,7 +38,6 @@
     - new searches will probably wipe out "old" markers from previous searches
     - if you want to add layers to your map, see the [Mapbox-III - Virus Map extra credit assignment](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-3.md)
   - If you are using Firebase, you will probably be meeting that requirement with a **"Community"** page, which shows the favorites of ALL of the app's users
-    - We are covering Firebase on 7B and 8A
     - You must to save (WRITE) some sort of web site data to "the cloud" using Firebase (typed in user search terms, favorited Pokemon, etc):
       - [2 - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md) covers how to save data to the cloud using Firebase
     - You must add a **community.html** page or similar that will display (READ) at least some of this data to your users
