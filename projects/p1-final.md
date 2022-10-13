@@ -9,6 +9,7 @@
 - [Project 1 - Checkpoint #2](p1-checkpoint-2.md)
 - **Project 1 - Final Deliverable**
 - [Project 1 - Tips & Tricks](p1-tips.md)
+- [Project 1 - Helpers](p1-helpers.md)
 - [IGME-330 - Course Code Style Requirements](330-code-style.md) 
 
 <hr><hr>
