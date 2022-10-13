@@ -42,9 +42,11 @@
       - [2 - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md) covers how to save data to the cloud using Firebase
     - You must add a **community.html** page or similar that will display (READ) at least some of this data to your users
       - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md) covers how to read data from the cloud using Firebase
-    - Important Note: 
-      - Individual data - a user's favorites and other user data (such as the last term searched by that user and other UI state) MUST still be stored in the browser's local storage and displayed on your **favorites.html** page
-      - **community.html** will shows favorites (or other data) for ALL of the users
+    - [4 - More Firebase - creating a likes counter for Dog names](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-4.md)
+    - ***There is a video of the above Firebase demo here --> [Demo - Firebase "Likes" Counter (13:15)](https://rit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d89db2ea-9682-4aef-bb54-ae46002bf7ec)***
+  - Important Note: 
+    - Individual data - a user's favorites and other user data (such as the last term searched by that user and other UI state) MUST still be stored in the browser's local storage and displayed on your **favorites.html** page
+    - **community.html** will shows favorites (or other data) for ALL of the users
 
 6) The app must be easy to use, with well-labeled and obvious controls:
     - the search button is prominent, in an obvious location, stands out from the rest of the UI (give it an appropriate Bulma style/color for a search button) and "looks like a button"
