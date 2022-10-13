@@ -133,6 +133,7 @@
 |    3. App Page has required controls | |
 |    4. Favorites Page uses local storage to display favorites  | |
 |    5. Favorites Page has required "Delete Button"  | |
+|    6. Mapbox or Firebase functionality is present  | |
 |    - *Web Service does not work (App Page)* | *(-30)* |
 |    - *Does not save/restore UI state (App Page)  | *(-10)* |
 |    - *Missing required # of controls (App Page)* | *(-10 each)* |
