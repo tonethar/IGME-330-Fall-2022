@@ -135,11 +135,11 @@
 |    5. Favorites Page has required "Delete Button"  | |
 |    6. Mapbox or Firebase functionality is present  | |
 |    - *Web Service does not work (App Page)* | *(-30)* |
-|    - *Does not save/restore UI state (App Page)  | *(-10)* |
+|    - *Does not save/restore UI state (App Page)*  | *(-10)* |
 |    - *Missing required # of controls (App Page)* | *(-10 each)* |
 |    - *Favorites not stored in localstorage as detailed above (Favorites Page)* | *(-15)* |
 |    - *Missing Favorites "Delete" button (Favorites Page)* | *(-5)* |
-|    - *Missing Mapbox or Firebase functionality* | *(-15)* |
+|    - *Missing Mapbox or Firebase functionality (App or Community Page)* | *(-15)* |
 | **B. Content - Home & Documentation Pages** | **10** | |
 |    1. Required content is present on Home & Documentation Pages | |
 | **C. Design & Interaction** | **20** | |
