@@ -56,7 +56,7 @@
 
 7) The app must always "let the user know what's going on" with *activity indicators*:
     - use the `is-loading` Bulma class to get a "spinner" on a button - https://bulma.io/documentation/elements/button/
-    - use a Bulma "Indeterminate Progress Bar" - https://bulma.io/documentation/elements/progress/#indeterminate
+    - another possbility is a Bulma "Indeterminate Progress Bar" - https://bulma.io/documentation/elements/progress/#indeterminate
     - if a search result on a card is *favorited*, then the "Favorite Me!" button should change state to indicate that particular result cannot be favorited again
 
 8) The app must "fail gracefully" and errors must be communicated to the user - for example:
