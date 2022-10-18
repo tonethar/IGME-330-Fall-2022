@@ -72,6 +72,7 @@
 <hr>
 
 **INSTRUCTIONS:**
+- Find a partner, and take turns reviewing each other's projects
 - The reviewer will copy/paste what's below into a Word doc
 - The reviewer will name this Word doc ***projectcreatorlastname-firstinitial*-p1-review**
   - Example: ***Johnston-J-p1-review.docx*** (where "John Johnston" is the creator of the project)
