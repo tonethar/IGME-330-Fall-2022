@@ -62,9 +62,9 @@
 - Is there any current or planned "above and beyond"?
 
 
-### VIII. Overall comments or suggestions from reviewer
+### IX. Overall comments or suggestions from reviewer
 
-### IX. Technical or other issues?
+### X. Technical or other issues?
 - List any technical or other issues that the project creator has encountered?
 
 
@@ -92,9 +92,27 @@ Instructions:
 - Offer suggestions & emphasize any positives
 - Point out any resources that might be of use to the project creator
 - Ask the Prof about any questions relating to project requirements
-- Ask the Prof for advice if their are any unsolved technical issues that the project creator has encountered
+- Ask the Prof for advice if there are any unsolved technical issues that the project creator has encountered
   
 I. All Pages
+  
+II. Home Page
+
+III. App Page
+  
+IV. Favorites Page
+  
+V. Documentation Page
+  
+VI. Web Components
+
+VII. Impact
+
+VIII. "Above and Beyond"
+  
+IX. Overall comments or suggestions from reviewer
+  
+X. Technical or other issues?
 ```
 
 
