@@ -98,6 +98,7 @@ Instructions:
 - Ask the Prof about any questions relating to project requirements
 - Ask the Prof for advice if there are any unsolved technical issues that the project creator has encountered
 - Call the Prof over if you have any questions at all!
+- Submit the doc to myCourses before leaving class today
   
 I. All Pages
   
