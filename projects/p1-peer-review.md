@@ -72,11 +72,12 @@
 <hr>
 
 **INSTRUCTIONS:**
-- Each Reviewer will copy/paste what's below into a Word doc
-- Name this Word doc ***projectcreatorlastname-firstinitial*-p1-review**
-  - Example: ***Johnston-J-p1-review.docx***
-- Fill out the document, then post it to the appropriate myCourses dropbox
-- Don't neglect to DM a copy of the document to the project creator
+- The reviewer will copy/paste what's below into a Word doc
+- The reviewer will name this Word doc ***projectcreatorlastname-firstinitial*-p1-review**
+  - Example: ***Johnston-J-p1-review.docx*** (where "John Johnston" is the creator of the project)
+- The reviewer will fill out the document, and then post it to the appropriate myCourses dropbox
+- The reviewer will DM a copy of this document to the project creator
+- The reviewer and the project creator will now switch roles and repeat the process
 
 <hr> 
   
