@@ -1,6 +1,8 @@
 # In-class P1 Peer Review
 
-- [Project 1 - Final Requirements](../projects/p1-final.md)
+- [Project 1 - Checkpoint #1](p1-checkpoint-1.md)
+- [Project 1 - Checkpoint #2](p1-checkpoint-2.md)
+- [Project 1 - Final Requirements](p1-final.md)
 
 ## Instructions
 
