@@ -70,6 +70,7 @@
 
 5. These results WILL be displayed using a custom "card" component that was created by you
     - refer to [HW - Web Components-3](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md) and the `<sw-card>` component as an example
+    - also see [Dogfinder App - Part III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/dogfinder-3.md) for a nicely styled component
 
 6. ***\*\*This "UI state preservation" requirement has been deferred to the final project deliverable, you do not have to do this for checkpoint #2\*\**** 
 
