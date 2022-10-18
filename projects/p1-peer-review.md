@@ -72,7 +72,7 @@
 <hr>
 
 - **Each Reviewer will copy/paste what's below into a Word doc**
-- **Name this Word doc *<projectcreatorlastname-firstinitial>-p1-review***
+- **Name this Word doc *projectcreatorlastname-firstinitial*-p1-review**
   - Example: ***Johnston-J-p1-review.docx***
 - **Fill out the document, then post it to the appropriate myCourses dropbox**
 - **Don't neglect to DM a copy of the document to the project creator**
