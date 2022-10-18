@@ -77,7 +77,7 @@
 
 <hr> 
   
-***REVIEW TEMPLATE***
+\*\****REVIEW TEMPLATE***\*\*
 
 ```
 Reviewer Name:
