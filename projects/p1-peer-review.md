@@ -50,7 +50,7 @@
 - [Required Content Present?](p1-checkpoint-2.md#v-content-requirements---aboutdocumentation-page)
 
 ### VI. Web Components
-- Are there 4 components - "result-card", "app-navbar" and 2 others?
+- Are there 4 components - "result-card", "app-navbar" and 2 others? List them below.
 - Is the `<result-card>` following the `<sw-card>` example from **wc-3**, or the **Dogfinder-3** card example that uses Bulma card styles (which looks much better, and shows how to pass in callback code to the "Favorite" button)?
 
 ### VII. Impact
