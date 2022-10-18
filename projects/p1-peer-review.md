@@ -24,23 +24,43 @@
 - Theme related image?
 
 ### III. App Page
+- Required Controls?
+- Custom "card" web component with "Favorites" button?
+- UI State preservation (controls, required)?
+- UI State preservation (results, optional)?
+- uses `fetch()` instead of `XHR`?
+- uses either Mapbox or Firebase?
+- easy to use, with well-labeled and obvious controls?
+- "lets the user know what's going on"?
+  - example: activity indicator "spinner" on button?
+  - example: "5 results found"
+  - example: if a search result on a card is favorited, then the "Favorite Me!" button should change state to indicate that particular result cannot be favorited again
+- "fails gracefully" and errors communicated to the user?
+  - example: "No results found" message if a search comes back with no results
+  - example: "Please enter a search term" if the user clicks the search button without typing anything in
 
 ### IV. Favorites Page
+- [Favorites Page Requirements](p1-checkpoint-2.md#iv-functional-requirements---favorites-page) met?
+  - Optional features to be added?
 
 ### V. Documentation Page
 - [Required Content Present?](p1-checkpoint-2.md#v-content-requirements---aboutdocumentation-page)
 
 ### VI. Web Components
-- Are there 4 components - "result-card", "app-navbar" and others?
+- Are there 4 components - "result-card", "app-navbar" and 2 others?
 - Is the `<result-card>` following the `<sw-card>` example from **wc-3**, or the **Dogfinder-3** card example that uses Bulma card styles (which looks much better, and shows how to pass in callback code to the "Favorite" button)?
 
+### VII. Impact
 
-### VII. "Above and Beyond"
+- it serves a purpose - is useful to *someone*?
+- easy to use, functional, and aesthetically pleasing?
+- approaching "portfolio quality" - something you would be able to show a potential employer?
+
+### VIII. "Above and Beyond"
 - Is there any current or planned "above and beyond"?
 
 
 ### VIII. Overall comments or suggestions from reviewer
-
 
 
 <hr>
