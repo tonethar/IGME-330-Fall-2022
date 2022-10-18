@@ -6,8 +6,10 @@
 
 ## Instructions
 
+- See the 
 
 ## Peer review questions
+- The questions below do not cover every last requirment, but hit most of the major ones
 
 ### I. All Pages
 - Is there a "global" navbar on the same place on each page, and does it have embedded "you are here" cues (current page text is bolded, or similar)?
@@ -62,18 +64,26 @@
 
 ### VIII. Overall comments or suggestions from reviewer
 
+### IX. Technical or other issues?
+- List any technical or other issues that the project creator has encountered?
+
 
 <hr>
 
-**Copy/paste what's below into a Word doc**
+- **Each Reviewer will copy/paste what's below into a Word doc**
+- **Name this Word doc *<projectcreatorlastname-firstinitial>-p1-review***
+  - Example: ***Johnston-J-p1-review.docx***
+- **Fill out the document below, then post it to the appropriate myCourses dropbox**
 
 
 ```
 Reviewer Name:
-Reviewed Project:
+Info on Reviewed Project:
 - App Title:
-- Link:
+- Banjo Link:
 - Creator of project:
+
+Instructions
 ```
 
 
