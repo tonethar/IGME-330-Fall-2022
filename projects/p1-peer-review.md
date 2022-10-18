@@ -6,7 +6,7 @@
 
 ## Instructions
 
-- See the 
+- See the ***REVIEW TEMPLATE*** at the bottom of the page
 
 ## Peer review questions
 - The questions below do not cover every last requirment, but hit most of the major ones
@@ -73,8 +73,11 @@
 - **Each Reviewer will copy/paste what's below into a Word doc**
 - **Name this Word doc *<projectcreatorlastname-firstinitial>-p1-review***
   - Example: ***Johnston-J-p1-review.docx***
-- **Fill out the document below, then post it to the appropriate myCourses dropbox**
+- **Fill out the document, then post it to the appropriate myCourses dropbox**
 
+<hr> 
+  
+***REVIEW TEMPLATE***
 
 ```
 Reviewer Name:
