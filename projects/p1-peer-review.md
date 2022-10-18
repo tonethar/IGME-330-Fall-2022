@@ -44,6 +44,7 @@
 ### IV. Favorites Page
 - [Favorites Page Requirements](p1-checkpoint-2.md#iv-functional-requirements---favorites-page) met?
   - Optional features to be added?
+- "lets the user know what's going on"? (See examples above)
 
 ### V. Documentation Page
 - [Required Content Present?](p1-checkpoint-2.md#v-content-requirements---aboutdocumentation-page)
@@ -99,8 +100,10 @@ I. All Pages
 II. Home Page
 
 III. App Page
+(...you will be spending most of your time here...)
   
 IV. Favorites Page
+(...and here...)
   
 V. Documentation Page
   
