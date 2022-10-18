@@ -96,6 +96,7 @@ Instructions:
 - Point out any resources that might be of use to the project creator
 - Ask the Prof about any questions relating to project requirements
 - Ask the Prof for advice if there are any unsolved technical issues that the project creator has encountered
+- Call the Prof over if you have any questions at all!
   
 I. All Pages
   
