@@ -9,7 +9,7 @@
 - See the ***REVIEW TEMPLATE*** at the bottom of the page
 
 ## Peer review questions
-- The questions below do not cover every last requirment, but hit most of the major ones
+- The questions below do not cover every last requirement, but hit most of the major ones
 
 ### I. All Pages
 - Is there a "global" navbar on the same place on each page, and does it have embedded "you are here" cues (current page text is bolded, or similar)?
@@ -74,6 +74,7 @@
 - **Name this Word doc *<projectcreatorlastname-firstinitial>-p1-review***
   - Example: ***Johnston-J-p1-review.docx***
 - **Fill out the document, then post it to the appropriate myCourses dropbox**
+- **Don't neglect to DM a copy of the document to the project creator**
 
 <hr> 
   
@@ -86,7 +87,14 @@ Info on Reviewed Project:
 - Banjo Link:
 - Creator of project:
 
-Instructions
+Instructions: 
+- Indicate any missing requirements or "areas of opportunity" for each category below
+- Offer suggestions & emphasize any positives
+- Point out any resources that might be of use to the project creator
+- Ask the Prof about any questions relating to project requirements
+- Ask the Prof for advice if their are any unsolved technical issues that the project creator has encountered
+  
+I. All Pages
 ```
 
 
