@@ -87,7 +87,7 @@
 Reviewer Name:
 Info on Reviewed Project:
 - App Title:
-- Banjo Link:
+- Banjo Link to newest version:
 - Creator of project:
 
 Instructions: 
