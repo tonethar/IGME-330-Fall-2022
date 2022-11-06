@@ -4,7 +4,7 @@ I. [Handy Links](#links)
 
 II. [Executive Summary of Project](#summary)
 
-III. [Checkpoint Feedback](#checkpoint-feedback)
+III. [Thoughts on Project Scope](#checkpoint-feedback)
 
 IV. [AV Tips](#av-tips)
 
@@ -75,7 +75,7 @@ VI. [Other Resources](#resources)
 
 <hr>
 
-## III. General Checkpoint Feedback
+## III. Thoughts on Project Scope
 
 ### III-A. Go beyond the "starter" HW assignments
 
