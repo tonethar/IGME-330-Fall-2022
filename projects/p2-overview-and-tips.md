@@ -88,7 +88,7 @@ VI. [Other Resources](#resources)
   - be sure to link to the actual page utilized, not just to an entire web site 
   - cite the resource on your project Documentation page AND
   - cite the resource as a code comment, right where you utilized it
-  - you do not have to cite any code from the IGME-330 HW assignments
+  - you DO have to cite any code from any relevant IGME-330 course material - ex. AV HW assignments or Cage Clicker
 
 ### III-C. How much time should you spend on this assignment?
 
