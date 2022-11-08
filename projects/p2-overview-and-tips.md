@@ -94,7 +94,7 @@ VI. [Other Resources](#resources)
 
 - project 2 is where you will demonstrate what you have learned this semester
 - typically, weekly out of class work is expected to be 3 or 4 times total in-class hours - which works out to 8.5 to 10 hours a week
-- allocating 3 weeks to the project (including the prototype) works out to roughly 25-30 hours of work in total
+- allocating 4 weeks to the project (including the prototype) works out to roughly 30-40 hours of work in total
 
 
 ### III-D. Chrome Favicon Error Messages
