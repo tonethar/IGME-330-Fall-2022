@@ -151,7 +151,7 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 
 ### IV-E. Sprites
  - Sprites - displayed with either canvas primitives or bitmap data - allow for experiences that are distict from the AV HW
-   - see the Week 14 myCourses demo **filter-example-plus-wa.zip** (it utilizes sprites)
+   - see the sprite demo in myCourses
    - [Canvas VI - Canvas Sprites](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-6.md)
    - [Mario Sprite Sheet Example](https://github.com/tonethar/IGME-330-Master/blob/master/notes/_files/sprite-sheet-demo-mario.zip)
 
@@ -164,7 +164,7 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
   - [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)  - look at the animated rotating bezier curves in **screen-saver-2.html**
 
 ### IV-H. Alternative Inputs
-- For highest "Impact", you should use *customized* audio control buttons (Play/Pause/Volume) like we did in the AV HW, and add Bulma styles to them:
+- For highest "Impact", you must use *customized* audio control buttons (Play/Pause/Volume) like we did in the AV HW, and add Bulma styles to them:
   - don't use the built in `<audio>` element for controls
 - Web Cam
   - https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-6.md
