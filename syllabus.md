@@ -1,5 +1,5 @@
 # IGME-330 Rich Media Web Application Development I. 
-## Fall 2022: Syllabus (DRAFT)
+## Fall 2022: Syllabus
 
 ## I. Course Catalog Description 
 *This course provides students the opportunity to explore the design and development of media-rich web applications that utilize both static and procedurally manipulated media such as text, images and audio. This course examines client and server-side web development and features common to such applications.  Issues explored include framework characteristics, information management, presentation, interactivity, persistence, and data binding. Programming projects are required. 3 Credits*
